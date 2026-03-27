@@ -28,6 +28,7 @@ Claude Code skills for integrating the [Revolut Merchant API](https://developer.
 | `revolut-pay-by-bank` | Open banking / account-to-account payments |
 | `revolut-promotional-widgets` | Buy Now banners and payment badges (no order required) |
 | `revolut-webhook-debugging` | Signature verification, CSRF setup, and ORDER_COMPLETED debugging |
+| `revolut-merchant-payments` | Full API reference: order lifecycle, 3DS, self-hosted checkout, recurring payments, in-person terminals |
 
 ## Usage
 
