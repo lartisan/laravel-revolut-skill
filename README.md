@@ -12,6 +12,7 @@ Claude Code skills for integrating the [Revolut Merchant API](https://developer.
 
 ```bash
 /plugin marketplace add lartisan/laravel-revolut-skill
+# or:
 /plugin install laravel-revolut-skill@lartisan
 ```
 
