@@ -8,7 +8,7 @@
     {
       "name": "laravel-revolut-skill",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "lartisan/laravel-revolut-skill"
       },
       "description": "Revolut Merchant API integration skills for Laravel",
