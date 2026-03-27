@@ -1,0 +1,10 @@
+{
+  "name": "laravel-revolut",
+  "description": "Revolut Merchant API integration skills for Laravel. Covers all Web SDK payment methods (Card Popup, Card Field, Revolut Pay, Apple Pay, Google Pay, Pay by Bank, Promotional Widgets), webhook debugging, and order management via the revolut/laravel-integration package.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lartisan",
+    "url": "https://github.com/lartisan"
+  },
+  "keywords": ["revolut", "payments", "laravel", "merchant-api", "checkout", "webhooks"]
+}

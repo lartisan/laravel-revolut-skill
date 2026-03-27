@@ -1,0 +1,15 @@
+{
+  "name": "lartisan",
+  "owner": {
+    "name": "lartisan",
+    "url": "https://github.com/lartisan"
+  },
+  "plugins": [
+    {
+      "name": "laravel-revolut",
+      "source": ".",
+      "description": "Revolut Merchant API integration skills for Laravel",
+      "version": "1.0.0"
+    }
+  ]
+}
