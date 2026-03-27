@@ -7,7 +7,10 @@
   "plugins": [
     {
       "name": "laravel-revolut",
-      "source": ".",
+      "source": {
+        "type": "github",
+        "repo": "lartisan/laravel-revolut-skill"
+      },
       "description": "Revolut Merchant API integration skills for Laravel",
       "version": "1.0.0"
     }
