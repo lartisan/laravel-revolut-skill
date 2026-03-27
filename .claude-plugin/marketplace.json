@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "laravel-revolut",
+      "name": "laravel-revolut-skill",
       "source": {
         "type": "github",
         "repo": "lartisan/laravel-revolut-skill"

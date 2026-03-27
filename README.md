@@ -1,4 +1,4 @@
-# laravel-revolut
+# laravel-revolut-skill
 
 Claude Code skills for integrating the [Revolut Merchant API](https://developer.revolut.com/docs/merchant-api/) in Laravel applications via the [`revolut/laravel-integration`](https://github.com/lartisan/revolut-laravel-integration) package.
 
@@ -11,8 +11,8 @@ Claude Code skills for integrating the [Revolut Merchant API](https://developer.
 ## Installation
 
 ```bash
-/plugin marketplace add lartisan/laravel-revolut
-/plugin install laravel-revolut@lartisan
+/plugin marketplace add lartisan/laravel-revolut-skill
+/plugin install laravel-revolut-skill@lartisan
 ```
 
 ## Skills
@@ -35,8 +35,8 @@ Claude Code skills for integrating the [Revolut Merchant API](https://developer.
 Skills activate automatically based on context. You can also invoke them explicitly:
 
 ```
-/laravel-revolut:revolut-integration
-/laravel-revolut:revolut-webhook-debugging
+/laravel-revolut-skill:revolut-integration
+/laravel-revolut-skill:revolut-webhook-debugging
 ```
 
 ## License
